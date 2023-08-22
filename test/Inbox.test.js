@@ -25,5 +25,3 @@ describe('Inbox', () => {
         console.log(inbox);
     });
 });
-
-// just for test testejdjashjdsak
